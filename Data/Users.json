@@ -1,0 +1,46 @@
+{
+    "Users": [
+      {
+        "Id": "1xcvb1",
+,       "Name": {"First": "Frank", "Last":"Smith", "Short": "Frank"},
+        "Account_Balance": "$18900",
+        "Occupation": "Business",
+        "Account_Types": ["Saving Account"],
+        "Credit_Card_Types": [ null ],
+        "Average_Flying_Expenses": "$0",
+        "Is_A_BMO_Credit_Card_Holder": "false",
+        "Is_A_BMO_Mortage_Loan_Holder": "false",
+        "Is_A_Other_Bank_Credit_Card_Holder": "true",
+        "Other_BMO_Relationships": [ null ],
+        "Zip_Code": "Toronto MSV"
+      },
+      {
+        "id": "1xcvb2",
+        "Name": {"First": "Sarah", "Last":"Hyland", "Short": "Sarah"},
+        "Account_Balance": "$358171",
+        "Occupation": "Business",
+        "Account_Types": ["Saving Account", "Business Account"],
+        "Credit_Card_Types": [ "BMO Cashback" ],
+        "Average_Flying_Expenses": "$17508",
+        "Is_A_BMO_Credit_Card_Holder": "true",
+        "Is_A_BMO_Mortage_Loan_Holder": "false",
+        "Is_A_Other_Bank_Credit_Card_Holder": "false",
+        "Other_BMO_Relationships": [ null ],
+        "Zip_Code": "Toronto MSV"
+      },
+      {
+        "id": "1xcvb3",
+        "Name": {"First": "Tom", "Last":"Green", "Short": "Tom"},
+        "Account_Balance": "$19000",
+        "Occupation": "Salaried",
+        "Account_Types": ["Saving Account"],
+        "Credit_Card_Types": [ null ],
+        "Average_Flying_Expenses": "$0",
+        "Is_A_BMO_Credit_Card_Holder": "false",
+        "Is_A_BMO_Mortage_Loan_Holder": "false",
+        "Is_A_Other_Bank_Credit_Card_Holder": "true",
+        "Other_BMO_Relationships": [ null ],
+        "Zip_Code": "Toronto MSV"
+      }
+    ]
+  }
