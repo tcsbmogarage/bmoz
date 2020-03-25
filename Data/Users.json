@@ -2,7 +2,7 @@
     "Users": [
       {
         "Id": "1xcvb1",
-,       "Name": {"First": "Frank", "Last":"Smith", "Short": "Frank"},
+        "Name": { "First": "Frank", "Last":"Smith", "Short": "Frank" },
         "Account_Balance": "$18900",
         "Occupation": "Business",
         "Account_Types": ["Saving Account"],
@@ -15,7 +15,7 @@
         "Zip_Code": "Toronto MSV"
       },
       {
-        "id": "1xcvb2",
+        "Id": "1xcvb2",
         "Name": {"First": "Sarah", "Last":"Hyland", "Short": "Sarah"},
         "Account_Balance": "$358171",
         "Occupation": "Business",
@@ -29,7 +29,7 @@
         "Zip_Code": "Toronto MSV"
       },
       {
-        "id": "1xcvb3",
+        "Id": "1xcvb3",
         "Name": {"First": "Tom", "Last":"Green", "Short": "Tom"},
         "Account_Balance": "$19000",
         "Occupation": "Salaried",
