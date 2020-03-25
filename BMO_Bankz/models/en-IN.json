@@ -31,10 +31,17 @@
         {
           "name": "AMAZON.NavigateHomeIntent",
           "samples": []
+        },
+        {
+          "name": "GetTransactions",
+          "slots": [],
+          "samples": [
+            "What is my last transaction"
+          ]
         }
       ],
       "types": []
     }
   },
-  "version": "2"
+  "version": "4"
 }
